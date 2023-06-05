@@ -1,0 +1,107 @@
+
+           .top{
+            height: auto;
+            width:100%;
+            margin-left: 0;
+            background:oldlace;
+            position: fixed;
+            top:0;
+            margin-bottom: 5px
+        }
+        .top ul{
+            width:auto;
+            list-style-type: none;
+            white-space: nowrap;
+            overflow:hidden;
+            margin-left: 5%;
+            padding:0
+        }
+        .top li{
+            float:left;
+            margin-right:2%;
+            position: relative;
+            overflow:hidden;
+        }
+        .top li a{
+            display: block;
+            color:white;
+            text-align: center;
+            padding:3px;
+            overflow:hidden;
+            text-decoration: none;
+        }
+        .top li a:hover{
+            background-color: blanchedalmond
+        }
+        .text{
+            color:firebrick; font-family:Georgia;
+        }
+
+        .title{
+            color:brown; font-family:Georgia;font-size: 1.5em;
+        }
+
+        .texthg{
+
+             font-size:15px;
+             color:firebrick;
+             text-align:50px;
+             font-family: "Georgia";
+             margin-top:20px;
+             margin-bottom:30px;
+             margin-right:400px;
+             margin-left:400px;
+        }
+
+        .page1
+    {
+        float: left;
+		margin-top:20px;
+		margin-right:20px;
+        margin-left:20px;
+
+    }
+
+        .screenshot
+    {
+        margin-left: 120px;
+        margin-right: 100px;
+
+
+    }
+			.container-wrapper {
+				display: flex;
+				justify-content: space-between;
+				font-size: 18px;
+				margin-bottom: 20px;
+				margin-left: 40px;
+                margin-right: 40px;
+			}
+
+			.container {
+				width: 45%;
+			}
+
+			h2 {
+				color: brown;
+				font-family: Georgia;
+			}
+
+			p {
+				color: firebrick;
+				font-family: Georgia;
+				line-height: 1.5;
+			}
+		.image-container {
+				display: flex;
+				justify-content: center;
+				margin-bottom: 20px;
+			}
+
+			.image-container img {
+				margin-right: 40px;
+			}
+.homepage{
+	       color:firebrick; font-family:Georgia;margin: 0 350px; font-size: 18px;line-height: 1.5;
+        }
+}
